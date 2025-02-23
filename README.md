@@ -9,6 +9,7 @@ bash
 Copy
 # Установка зависимостей
 pip install PyQt5 pandas xlsxwriter reportlab
+
 ⚙️ Запуск программы
 bash
 Copy
