@@ -14,7 +14,8 @@ bash
 Copy
 python main.py
 
-📷 Скриншот стартового окна: 
+📷 Скриншот стартового окна:
+
 ![image](https://github.com/user-attachments/assets/9385e52e-cfdf-4ffc-bf03-e183c62e3ce1)
 
 🖱️ Интерфейс программы
@@ -44,6 +45,7 @@ python main.py
 
 
 📷 Скриншот формы добавления: 
+
 ![image](https://github.com/user-attachments/assets/6c1f4881-6ea5-436d-8d4d-dc2967e6c4ee)
 
 2. Редактирование оборудования
@@ -65,6 +67,7 @@ python main.py
 
 
 📷 Скриншот PDF-отчета: 
+
 ![image](https://github.com/user-attachments/assets/0004d39d-8add-4777-b9b0-787a5acfbed1)
 
 📊 Excel-отчет по ТО
@@ -81,6 +84,7 @@ python main.py
 
 
 📷 Скриншот вкладки пользователей: 
+
 ![image](https://github.com/user-attachments/assets/bc1d299a-581a-4da3-b655-1f256349f02c)
 
 🐛 Решение частых проблем
