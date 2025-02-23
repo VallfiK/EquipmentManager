@@ -1,0 +1,161 @@
+2025-02-22 21:06:14,787 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 21:06:20,596 - ui.dialogs - DEBUG - Данные из формы: {'name': 'выфвыфв', 'category_id': 2, 'serial_number': '3123123123123', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213123, 'next_service': '2025-08-22', 'notes': 'ывфывфыв'}
+2025-02-22 21:06:20,597 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 21:06:20,598 - ui.dialogs - DEBUG - Данные из формы: {'name': 'выфвыфв', 'category_id': 2, 'serial_number': '3123123123123', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213123, 'next_service': '2025-08-22', 'notes': 'ывфывфыв'}
+2025-02-22 21:06:20,599 - ui.main_window - DEBUG - Данные для добавления: {'name': 'выфвыфв', 'category_id': 2, 'serial_number': '3123123123123', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213123, 'next_service': '2025-08-22', 'notes': 'ывфывфыв'}
+2025-02-22 21:06:20,599 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 21:06:20,599 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 21:08:07,011 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 21:08:12,123 - ui.dialogs - DEBUG - Данные из формы: {'name': '312312', 'category_id': 2, 'serial_number': '312312312', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 321312, 'next_service': '2025-08-22', 'notes': '312321'}
+2025-02-22 21:08:12,124 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 21:08:12,125 - ui.dialogs - DEBUG - Данные из формы: {'name': '312312', 'category_id': 2, 'serial_number': '312312312', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 321312, 'next_service': '2025-08-22', 'notes': '312321'}
+2025-02-22 21:08:12,125 - ui.main_window - DEBUG - Данные для добавления: {'name': '312312', 'category_id': 2, 'serial_number': '312312312', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 321312, 'next_service': '2025-08-22', 'notes': '312321'}
+2025-02-22 21:08:12,125 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 21:08:12,126 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 21:09:53,132 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 21:09:56,983 - ui.dialogs - DEBUG - Данные из формы: {'name': '3213', 'category_id': 2, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213, 'next_service': '2025-08-22', 'notes': '3213'}
+2025-02-22 21:09:56,984 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 21:09:56,985 - ui.dialogs - DEBUG - Данные из формы: {'name': '3213', 'category_id': 2, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213, 'next_service': '2025-08-22', 'notes': '3213'}
+2025-02-22 21:09:56,985 - ui.main_window - DEBUG - Данные для добавления: {'name': '3213', 'category_id': 2, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213, 'next_service': '2025-08-22', 'notes': '3213'}
+2025-02-22 21:09:56,986 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 21:09:56,986 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 21:14:38,635 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 21:14:41,447 - ui.dialogs - DEBUG - Данные из формы: {'name': '3213', 'category_id': 2, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213, 'next_service': '2025-08-22', 'notes': '3213'}
+2025-02-22 21:14:41,447 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 21:14:41,449 - ui.dialogs - DEBUG - Данные из формы: {'name': '3213', 'category_id': 2, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213, 'next_service': '2025-08-22', 'notes': '3213'}
+2025-02-22 21:14:41,449 - ui.main_window - DEBUG - Данные для добавления: {'name': '3213', 'category_id': 2, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3213, 'next_service': '2025-08-22', 'notes': '3213'}
+2025-02-22 21:14:41,449 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 21:14:41,449 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 21:32:55,187 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 21:32:58,739 - ui.dialogs - DEBUG - Данные из формы: {'name': '32131', 'category_id': 1, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 321312, 'next_service': '2025-08-22', 'notes': '321'}
+2025-02-22 21:32:58,739 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 21:32:58,741 - ui.dialogs - DEBUG - Данные из формы: {'name': '32131', 'category_id': 1, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 321312, 'next_service': '2025-08-22', 'notes': '321'}
+2025-02-22 21:32:58,741 - ui.main_window - DEBUG - Данные для добавления: {'name': '32131', 'category_id': 1, 'serial_number': '3213', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 321312, 'next_service': '2025-08-22', 'notes': '321'}
+2025-02-22 21:32:58,741 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 21:32:58,742 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 21:42:08,557 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 21:42:11,298 - ui.dialogs - DEBUG - Данные из формы: {'name': '3213', 'category_id': 1, 'serial_number': '3123', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3123, 'next_service': '2025-08-22', 'notes': '312'}
+2025-02-22 21:42:11,299 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 21:42:11,300 - ui.dialogs - DEBUG - Данные из формы: {'name': '3213', 'category_id': 1, 'serial_number': '3123', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3123, 'next_service': '2025-08-22', 'notes': '312'}
+2025-02-22 21:42:11,301 - ui.main_window - DEBUG - Данные для добавления: {'name': '3213', 'category_id': 1, 'serial_number': '3123', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 3123, 'next_service': '2025-08-22', 'notes': '312'}
+2025-02-22 21:42:11,301 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 21:42:11,301 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:15:12,175 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:15:15,795 - ui.dialogs - DEBUG - Данные из формы: {'name': '22', 'category_id': 1, 'serial_number': '222', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 222, 'next_service': '2025-08-22', 'notes': '222'}
+2025-02-22 22:15:15,796 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:15:15,797 - ui.dialogs - DEBUG - Данные из формы: {'name': '22', 'category_id': 1, 'serial_number': '222', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 222, 'next_service': '2025-08-22', 'notes': '222'}
+2025-02-22 22:15:15,798 - ui.main_window - DEBUG - Данные для добавления: {'name': '22', 'category_id': 1, 'serial_number': '222', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 222, 'next_service': '2025-08-22', 'notes': '222'}
+2025-02-22 22:15:15,798 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:15:15,798 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:28:41,444 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:28:43,899 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:28:43,899 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:28:43,900 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:28:43,901 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:28:43,901 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:28:43,901 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:37:07,898 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:37:10,359 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:37:10,360 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:37:10,361 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:37:10,361 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:37:10,362 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:37:10,362 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:40:13,727 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:40:16,101 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:40:16,101 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:40:16,103 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:40:16,103 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:40:16,103 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:40:16,103 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:47:28,204 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:47:30,867 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:47:30,868 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:47:30,869 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:47:30,869 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:47:30,870 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:47:30,870 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:48:53,113 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:48:55,571 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:48:55,571 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:48:55,572 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:48:55,573 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:48:55,573 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:48:55,573 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:53:37,380 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:53:40,081 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:53:40,082 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:53:40,083 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:53:40,083 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:53:40,084 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:53:40,084 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:57:22,298 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:57:24,625 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:57:24,625 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:57:24,627 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:57:24,627 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:57:24,627 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:57:24,628 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:58:16,297 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:16,297 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:58:16,297 - database.db - DEBUG - Закрытие соединения с базой данных
+2025-02-22 22:58:16,421 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:16,421 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:58:16,422 - database.db - DEBUG - Закрытие соединения с базой данных
+2025-02-22 22:58:16,479 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:16,480 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:58:16,480 - database.db - DEBUG - Закрытие соединения с базой данных
+2025-02-22 22:58:20,298 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:58:20,299 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:20,299 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:58:20,300 - database.db - DEBUG - Закрытие соединения с базой данных
+2025-02-22 22:58:24,606 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:58:24,606 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:58:24,608 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:58:24,608 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:58:24,608 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:58:24,609 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 22:58:55,428 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:55,428 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:58:55,551 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:55,551 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:58:55,608 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:55,608 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:58:57,886 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 22:58:57,886 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 22:58:57,887 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 22:59:00,308 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:59:00,309 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 22:59:00,310 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:59:00,311 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 22:59:00,311 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 22:59:00,311 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 23:00:50,681 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 23:00:50,682 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 23:00:50,811 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 23:00:50,811 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 23:00:50,872 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 23:00:50,872 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 23:00:51,830 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 23:00:51,830 - database.db - DEBUG - Установка соединения с базой данных
+2025-02-22 23:00:51,831 - database.db - DEBUG - Соединение с базой данных установлено
+2025-02-22 23:00:54,248 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:00:54,249 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 23:00:54,250 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:00:54,250 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:00:54,251 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 23:00:54,251 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 23:01:35,793 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 23:01:38,017 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:01:38,018 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 23:01:38,019 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:01:38,020 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:01:38,020 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 23:01:38,020 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable
+2025-02-22 23:03:22,587 - ui.main_window - DEBUG - Открытие диалога добавления оборудования
+2025-02-22 23:03:25,136 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:03:25,137 - ui.dialogs - DEBUG - Данные прошли валидацию
+2025-02-22 23:03:25,138 - ui.dialogs - DEBUG - Данные из формы: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:03:25,138 - ui.main_window - DEBUG - Данные для добавления: {'name': '1', 'category_id': 1, 'serial_number': '1', 'status': 'В работе', 'purchase_date': '2025-02-22', 'purchase_price': 1, 'next_service': '2025-08-22', 'notes': '1'}
+2025-02-22 23:03:25,139 - ui.main_window - DEBUG - Добавление оборудования в базу данных
+2025-02-22 23:03:25,139 - ui.main_window - ERROR - Ошибка при добавлении оборудования: 'NoneType' object is not subscriptable

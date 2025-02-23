@@ -1,0 +1,22 @@
+{
+    "database": "equipment.db",
+    "backup_dir": "backups",
+    "service_interval_days": 180,
+    "default_user_role": "user",
+    "smtp": {
+        "host": "smtp.example.com",
+        "port": 587,
+        "user": "user@example.com",
+        "password": "password",
+        "from": "noreply@example.com",
+        "tls": true
+    },
+    "notifications": {
+        "enabled": true,
+        "days_before": 7,
+        "recipients": [
+            "admin@example.com",
+            "manager@example.com"
+        ]
+    }
+}
