@@ -13,6 +13,7 @@ pip install PyQt5 pandas xlsxwriter reportlab
 bash
 Copy
 python main.py
+
 📷 Скриншот стартового окна: ![image](https://github.com/user-attachments/assets/9385e52e-cfdf-4ffc-bf03-e183c62e3ce1)
 
 🖱️ Интерфейс программы
@@ -20,6 +21,7 @@ python main.py
 Вкладки: Оборудование 🛠️, Отчеты 📊, Пользователи 👥 (только для админов).
 
 Панель инструментов: Кнопки добавления/редактирования/удаления.
+
 
 📷 Скриншот главного окна: ![image](https://github.com/user-attachments/assets/9eff1edd-eb13-482c-a747-76350fdc1024)
 
@@ -36,6 +38,7 @@ python main.py
 Серийный номер 🔢
 
 Статус 🟢 (В работе/На ремонте/Списано).
+
 
 📷 Скриншот формы добавления: ![image](https://github.com/user-attachments/assets/6c1f4881-6ea5-436d-8d4d-dc2967e6c4ee)
 
@@ -56,6 +59,7 @@ python main.py
 
 Отчет сохранится в папке reports/.
 
+
 📷 Скриншот PDF-отчета: ![image](https://github.com/user-attachments/assets/0004d39d-8add-4777-b9b0-787a5acfbed1)
 
 📊 Excel-отчет по ТО
@@ -69,6 +73,7 @@ python main.py
 Изменение роли: Выберите пользователя → "Изменить роль" 🔄.
 
 Удаление: Кнопка "Удалить пользователя" ❌.
+
 
 📷 Скриншот вкладки пользователей: ![image](https://github.com/user-attachments/assets/bc1d299a-581a-4da3-b655-1f256349f02c)
 
@@ -91,7 +96,7 @@ python main.py
 🙏 Благодарности
 Спасибо, что используете нашу программу! Ваши предложения и баги можно отправлять сюда:
 ✉️ Email: ivladok01@gmail.com
-🐙 GitHub Issues: [ссылка на репозиторий]
+🐙 GitHub Issues: [ссылка на репозиторий](https://github.com/VallfiK/EquipmentManager.git)
 
 Happy coding! 🚀
 #EquipmentManager #УчетОборудования
