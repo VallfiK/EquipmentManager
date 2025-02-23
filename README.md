@@ -14,7 +14,8 @@ bash
 Copy
 python main.py
 
-📷 Скриншот стартового окна: ![image](https://github.com/user-attachments/assets/9385e52e-cfdf-4ffc-bf03-e183c62e3ce1)
+📷 Скриншот стартового окна: 
+![image](https://github.com/user-attachments/assets/9385e52e-cfdf-4ffc-bf03-e183c62e3ce1)
 
 🖱️ Интерфейс программы
 📌 Главное окно
@@ -23,7 +24,8 @@ python main.py
 Панель инструментов: Кнопки добавления/редактирования/удаления.
 
 
-📷 Скриншот главного окна: ![image](https://github.com/user-attachments/assets/9eff1edd-eb13-482c-a747-76350fdc1024)
+📷 Скриншот главного окна: 
+![image](https://github.com/user-attachments/assets/9eff1edd-eb13-482c-a747-76350fdc1024)
 
 🛠️ Основные функции
 1. Добавление оборудования
@@ -40,7 +42,8 @@ python main.py
 Статус 🟢 (В работе/На ремонте/Списано).
 
 
-📷 Скриншот формы добавления: ![image](https://github.com/user-attachments/assets/6c1f4881-6ea5-436d-8d4d-dc2967e6c4ee)
+📷 Скриншот формы добавления: 
+![image](https://github.com/user-attachments/assets/6c1f4881-6ea5-436d-8d4d-dc2967e6c4ee)
 
 2. Редактирование оборудования
 Выберите оборудование в таблице.
@@ -60,7 +63,8 @@ python main.py
 Отчет сохранится в папке reports/.
 
 
-📷 Скриншот PDF-отчета: ![image](https://github.com/user-attachments/assets/0004d39d-8add-4777-b9b0-787a5acfbed1)
+📷 Скриншот PDF-отчета: 
+![image](https://github.com/user-attachments/assets/0004d39d-8add-4777-b9b0-787a5acfbed1)
 
 📊 Excel-отчет по ТО
 Нажмите "Оборудование с истекающим ТО (Excel)" ⚠️.
@@ -75,7 +79,8 @@ python main.py
 Удаление: Кнопка "Удалить пользователя" ❌.
 
 
-📷 Скриншот вкладки пользователей: ![image](https://github.com/user-attachments/assets/bc1d299a-581a-4da3-b655-1f256349f02c)
+📷 Скриншот вкладки пользователей: 
+![image](https://github.com/user-attachments/assets/bc1d299a-581a-4da3-b655-1f256349f02c)
 
 🐛 Решение частых проблем
 1. Черные квадраты в PDF-отчетах
