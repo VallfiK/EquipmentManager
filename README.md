@@ -25,6 +25,7 @@ python main.py
 
 
 📷 Скриншот главного окна: 
+
 ![image](https://github.com/user-attachments/assets/9eff1edd-eb13-482c-a747-76350fdc1024)
 
 🛠️ Основные функции
